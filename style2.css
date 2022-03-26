@@ -1,0 +1,38 @@
+#wrapper{
+    margin:auto;
+    padding: 0;
+    width:480px;
+    height: auto;
+    background: #eeeeee;
+}
+.titleprofile{
+    margin:auto;
+    background: #79aa12;
+    color:#000000;
+    font-family: Segoe UI;
+    font-size:22px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.photoprofile{
+     margin:auto;
+}
+.dataprofile{
+    margin:auto;
+    background: #ba23f3;
+    color:#000000;
+    font-family: Segoe UI;
+    font-size:16px;
+}
+.imgprofile{
+    display: block;
+    border-radius: 50%;
+    width:200px;
+    height:200px;
+    margin-left: auto;
+    margin-right: auto;
+     
+}
+.modal{
+    margin:auto;
+}
